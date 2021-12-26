@@ -421,7 +421,7 @@ button {
 }
 
 .weare .titlepage h2::after {
-     border-bottom: #f55171 solid 1px;
+     border-bottom: #9a3027 solid 1px;
      content: "";
      position: absolute;
      bottom: 0;
@@ -442,7 +442,7 @@ button {
 
 .weare .weare_box figure img {
      border-radius: 190px;
-     background: #f55171;
+     background: #9a3027;
      padding: 5px;
 }
 
@@ -459,7 +459,7 @@ button {
 }
 
 .weare .weare_box .read_more:hover {
-     background: #f55171;
+     background: #9a3027;
 }
 
 
@@ -473,7 +473,7 @@ button {
 }
 
 .Our {
-     background: #f55171;
+     background: #9a3027;
      margin-top: 90px;
      padding: 60px 0px;
 }
@@ -566,7 +566,7 @@ button {
 }
 
 .regist .titlepage h2::after {
-     border-bottom: #f55171 solid 1px;
+     border-bottom: #9a3027 solid 1px;
      content: "";
      position: absolute;
      bottom: 0;
@@ -613,7 +613,7 @@ button {
 }
 
 .regist .main_form .register:hover {
-     background-color: #f55171;
+     background-color: #9a3027;
      transition: ease-in all 0.5s;
      color: #fff;
      border-radius: 26px;
@@ -666,7 +666,7 @@ button {
 .testimonial {
      margin-top: 90px;
      padding-bottom: 90px;
-     background: #f55171;
+     background: #9a3027;
      padding-top: 60px;
 }
 
@@ -771,7 +771,7 @@ button {
 /** footer **/
 
 .multi {
-     color: #f55171;
+     color: #9a3027;
      font-weight: bold;
      font-size: 60px;
 }
@@ -829,7 +829,7 @@ button {
 }
 
 .copyright a:hover {
-     color: #f55171;
+     color: #9a3027;
 }
 
 
