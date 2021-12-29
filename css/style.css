@@ -305,13 +305,18 @@ button {
 /*--------------------------------------------------------------------- layout new css ---------------------------------------------------------------------*/
 
 .head_top {
-     background: url(../images/banner.jpg);
+     background: url(../images/banner2.png);
      background-size: 100% 100%;
      background-repeat: no-repeat;
-     padding-top: 60px;
+     padding-top: 350px;
      background-position: center;
      border-radius: 0px 0px 170px 170px;
      background-size: cover;
+}
+
+.centered {
+  position: absolute;
+  transform: translate(-50%, -50%);
 }
 
 .header {
